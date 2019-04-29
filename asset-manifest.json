@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/office_hours_react/static/css/main.584f321a.chunk.css",
+    "main.js": "/office_hours_react/static/js/main.9bd8874f.chunk.js",
+    "main.js.map": "/office_hours_react/static/js/main.9bd8874f.chunk.js.map",
+    "runtime~main.js": "/office_hours_react/static/js/runtime~main.84f2b482.js",
+    "runtime~main.js.map": "/office_hours_react/static/js/runtime~main.84f2b482.js.map",
+    "static/js/2.b41502e9.chunk.js": "/office_hours_react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/office_hours_react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/office_hours_react/index.html",
+    "precache-manifest.4367eecbef148aac856a7798ee990cb7.js": "/office_hours_react/precache-manifest.4367eecbef148aac856a7798ee990cb7.js",
+    "service-worker.js": "/office_hours_react/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/office_hours_react/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/office_hours_react/static/media/logo.5d5d9eef.svg"
+  }
+}
